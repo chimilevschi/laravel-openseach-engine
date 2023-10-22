@@ -1,6 +1,6 @@
 {
     "name": "romangrinev/laravel-opensearch-engine",
-    "version": "v0.0.14",
+    "version": "v0.0.15",
     "description": "Custom Laravel Scout OpenSearch Engine",
     "keywords": ["opensearch", "laravel", "search", "scout"],
     "license": "MIT",
@@ -12,8 +12,8 @@
     ],
     "require": {
         "php": ">=8.0",
-        "laravel/framework": "^9.0.0",
-        "laravel/scout": "^9.0"
+        "laravel/framework": "^10.0.0",
+        "laravel/scout": "^10.0"
     },
     "autoload": {
         "psr-4": {
