@@ -1,13 +1,13 @@
 {
-    "name": "romangrinev/laravel-opensearch-engine",
-    "version": "v0.0.15",
-    "description": "Custom Laravel Scout OpenSearch Engine",
+    "name": "chimilevschi/laravel-opensearch-engine",
+    "version": "v1.0.1",
+    "description": "Larave Scout for OpenSearch Engine",
     "keywords": ["opensearch", "laravel", "search", "scout"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Roman Grinev",
-            "email": "roman@grinev.software"
+            "name": "Gabriel Chimilevschi",
+            "email": "gabriel1978@gmail.com"
         }
     ],
     "require": {
